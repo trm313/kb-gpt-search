@@ -1,0 +1,50 @@
+.md {
+  font-size: 1.1rem;
+}
+.md h1 {
+  font-size: 2rem;
+}
+.md h2 {
+  font-size: 1.75rem;
+}
+.md h3 {
+  font-size: 1.5rem;
+}
+.md h4 {
+  font-size: 1.25rem;
+}
+.md h5 {
+  font-size: 1.15rem;
+}
+.md h6 {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.md p {
+  padding: 0.5rem 0;
+}
+
+.md ol,
+.md ul {
+  margin-left: 2.5rem;
+}
+.md li {
+  padding: 0.25rem 0;
+}
+
+.md a {
+  color: darkslateblue;
+  text-decoration: underline;
+}
+
+.md code {
+  background-color: #edf2f7;
+  padding: 0.15rem 0.5rem;
+  border-radius: 0.3rem;
+}
+
+.md img {
+  max-width: 500px;
+}
